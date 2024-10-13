@@ -33,6 +33,13 @@
 #     else:
 #         print("it is negetive",x)
 # positivenegetive(num)          
-        #activity 
-       
+        #activity 5
+num=int(input("enter number to even or odd")) 
+def evenodd(x):
+    if x%2:
+        print(x,"the number is even")
+    else:
+        print(x,"the number is odd")    
+    
+     
     
